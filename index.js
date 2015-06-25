@@ -2,7 +2,6 @@ var tls = require('tls');
 var fs = require('fs');
 var level = require('level');
 var multilevel = require('multilevel');
-var net = require('net');
 
 var db = level('db');
 
