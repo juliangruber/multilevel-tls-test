@@ -2,7 +2,7 @@
   "name": "multilevel-tls-test",
   "private": true,
   "dependencies": {
-    "level": "^1.2.0",
+    "level": "^1.6.0",
     "multilevel": "^7.3.0"
   }
 }
